@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @McPepperoni
-- 👀 I’m interested in VFX/Computer Science
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in VFX/Web/Software development
 - 💞️ I’m looking to collaborate on Computer Vision projects
 - 📫 How to reach me quangnguyen16200@gmail.com
 
